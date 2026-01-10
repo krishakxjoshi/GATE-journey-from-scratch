@@ -1,0 +1,6 @@
+Data Preprocessing : 
+Dealing Missing Values << Row drop x Fill Values
+Feature Scaling << Normality x Standardization
+Data Leakage
+Encoding << onehot x label
+ML Pipeline (On code)
