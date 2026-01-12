@@ -1,6 +1,6 @@
 Decision Trees
 Why they Overfit?
 Impurity of data << Gini x Entropy
-Noise in ML
+Noise in ML 
 Overfitting Core << Bagging x Boosting
 Random Forest vs Bagging
