@@ -1,4 +1,4 @@
-# ɢᴀᴛᴇᴀɪ&ᴅsғʀᴏᴍsᴄʀᴀᴛᴄʜ 🚀
+
 
 ✨ **A complete GATE AI & Data Science preparation journey — built from ZERO.**  
 Concepts • Code • Practice • Consistency
