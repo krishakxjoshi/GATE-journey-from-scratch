@@ -1,0 +1,6 @@
+DBMS ;  Drop VS Truncate VS Delete
+        Intro _ Roadmap
+        ✔ File system vs DBMS
+        ✔ 3-level architecture
+        ✔ Data abstraction
+        ✔ Physical vs Logical data independence
