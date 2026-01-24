@@ -1,0 +1,11 @@
+[Functional Dependencies & Normalization] ;- 
+        - Functional Dependencies (FDs)
+        - Attribute Closure
+        - Super Keys & Candidate Keys (using FDs)
+        - Armstrong’s Axioms
+        - Minimal Cover
+        - Second Normal Form (2NF)
+        - Third Normal Form (3NF)
+        - Boyce–Codd Normal Form (BCNF)
+        - Lossless Join Decomposition
+        - Dependency Preservation
