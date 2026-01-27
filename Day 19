@@ -1,0 +1,14 @@
+Transactions & Concurrency Control:
+                                      - Transactions
+                                      - ACID Properties
+                                      - Concurrency Problems
+                                      - Schedules
+                                      - Serializability
+                                      - Precedence Graph
+                                      - Recoverability
+                                      - Cascading Rollback
+                                      - Strict Schedules
+                                      - Locking Mechanism
+                                      - Two-Phase Locking (2PL)
+                                      - Deadlocks
+                                      - Deadlock Prevention Schemes
