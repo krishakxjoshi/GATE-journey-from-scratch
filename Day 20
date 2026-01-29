@@ -1,0 +1,22 @@
+Final ShowDown :
+                  Recovery Mechanisms in DBMS
+                  
+                  Log-Based Recovery
+                  
+                  Checkpointing
+                  
+                  Buffer Management Policies (Steal/Force)
+                  
+                  Shadow Paging
+                  
+                  Indexing Concepts
+                  
+                  Types of Index (Primary, Clustering, Secondary)
+                  
+                  Dense vs Sparse Index
+                  
+                  B+ Tree Indexing
+                  
+                  File Organization Methods
+                  
+                  Hash Indexing vs B+ Tree Comparison
