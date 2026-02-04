@@ -1,0 +1,14 @@
+CNN : 
+        Convolution Layer(s) – Extract image features
+        
+        Activation Function (ReLU) – Adds non-linearity
+        
+        Pooling Layer – Reduces spatial dimensions
+        
+        Flattening – Converts 2D feature maps to 1D
+        
+        Fully Connected (Dense) Layer – Classification
+        
+        Output Layer – Final predictions
+
+         
