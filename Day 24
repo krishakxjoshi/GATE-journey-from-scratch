@@ -1,0 +1,6 @@
+RNN   ;   Sequence Modeling & Why RNNs
+          Vanilla RNN Architecture
+          Hidden State (hₜ) and Temporal Dependency
+          Backpropagation Through Time (BPTT)
+          Vanishing & Exploding Gradient Problem
+          Introduction to LSTM and the Cell State Concept
