@@ -1,0 +1,9 @@
+SOM : Why we use it
+      Architecture
+      Training process
+      BMU
+      Learning rate & neighborhood
+      U-Matrix
+      MiniSom usage
+      Outliers in SOM
+      Visualization using pylab/matplotlib
